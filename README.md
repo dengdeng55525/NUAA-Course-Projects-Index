@@ -37,6 +37,6 @@
 
 后续如果继续开源新的 NUAA 课程项目，可在本仓库 README 中补充对应条目。各项目的源码、实验报告、运行说明和依赖配置仍以对应项目仓库为准。
 
-## 许可证
+## License
 
-本仓库采用 MIT License 开源。
+This repository is licensed under the MIT License.
