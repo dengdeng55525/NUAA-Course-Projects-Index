@@ -20,6 +20,7 @@
 | NUAA-Data-Structure-CourseDesign | 数据结构课程设计 | 11 个数据结构课程设计题目，覆盖树、图、队列、哈夫曼编码、B 树、排序算法比较等内容 | C/C++ | [GitHub](https://github.com/dengdeng55525/NUAA-Data-Structure-CourseDesign) |
 | NUAA-Discrete-Mathematics-Labs | 离散数学实验 | 欧拉回路与通路算法、二部图最大匹配算法实验材料，包含 C++ 实现、测试数据、算法框图和实验报告 | C++ | [GitHub](https://github.com/dengdeng55525/NUAA-Discrete-Mathematics-Labs) |
 | NUAA-Computer-Network-Labs | 计算机网络实验 | Wireshark 抓包分析、Packet Tracer 网络仿真和 PING 程序实验材料 | C++, Packet Tracer, Wireshark | [GitHub](https://github.com/dengdeng55525/NUAA-Computer-Network-Labs) |
+| NUAA-Computer-Graphics-Homework2 | 计算机图形学作业 | 基于 Meshviewer 框架的三角网格读取、显示和网格去噪编程实验 | C++, OpenGL, GLUT | [GitHub](https://github.com/dengdeng55525/NUAA-Computer-Graphics-Homework2) |
 | NUAA-LargeModel-Lingxi | 大模型课程项目 | 基于 Qwen2.5-1.5B、LoRA/QLoRA、DPO、NEFTune 与 rsLoRA 的家庭陪伴情绪支持对话助手 | Python, LLM, LoRA | [GitHub](https://github.com/dengdeng55525/NUAA-LargeModel-Lingxi) |
 
 ## 项目分类
@@ -31,6 +32,7 @@
 - `NUAA-Data-Structure-CourseDesign`：偏基础数据结构与算法综合训练，包含多道独立题目和完整课程报告。
 - `NUAA-Discrete-Mathematics-Labs`：偏离散结构与图论算法实验，包含 Fleury 算法和匈牙利算法的实现与报告材料。
 - `NUAA-Computer-Network-Labs`：偏网络实验归档，包含实验报告、网络拓扑文件和 PING 程序源代码。
+- `NUAA-Computer-Graphics-Homework2`：偏图形学编程实验，基于 C++、OpenGL 和 GLUT 完成网格模型显示与去噪处理。
 
 ### 大模型与智能交互项目
 
