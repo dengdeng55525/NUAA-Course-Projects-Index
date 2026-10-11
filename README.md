@@ -22,6 +22,7 @@
 | NUAA-Computer-Network-Labs | 计算机网络实验 | Wireshark 抓包分析、Packet Tracer 网络仿真和 PING 程序实验材料 | C++, Packet Tracer, Wireshark | [GitHub](https://github.com/dengdeng55525/NUAA-Computer-Network-Labs) |
 | NUAA-Computer-Graphics-Homework2 | 计算机图形学作业 | 基于 Meshviewer 框架的三角网格读取、显示和网格去噪编程实验 | C++, OpenGL, GLUT | [GitHub](https://github.com/dengdeng55525/NUAA-Computer-Graphics-Homework2) |
 | NUAA-Computer-Graphics-Homework3 | 计算机图形学作业 | 基于 OpenGL/GLUT 的 3D Room 场景建模，包含纹理贴图、光照、动画和键鼠交互 | C++, OpenGL, GLUT | [GitHub](https://github.com/dengdeng55525/NUAA-Computer-Graphics-Homework3) |
+| NUAA-Computer-Graphics-Survey | 计算机图形学综述作业 | NeRF 到 3D Gaussian Splatting 的新视角合成综述，包含英文论文、LaTeX 源码、参考文献和图表 | LaTeX, BibTeX, TikZ/PGFPlots | [GitHub](https://github.com/dengdeng55525/NUAA-Computer-Graphics-Survey) |
 | NUAA-LargeModel-Lingxi | 大模型课程项目 | 基于 Qwen2.5-1.5B、LoRA/QLoRA、DPO、NEFTune 与 rsLoRA 的家庭陪伴情绪支持对话助手 | Python, LLM, LoRA | [GitHub](https://github.com/dengdeng55525/NUAA-LargeModel-Lingxi) |
 | NUAA-Ubiquitous-Computing-CourseDesign | 普适计算课程设计 | 智慧社区养老互助系统，包含情境感知、任务调度、时间银行积分、三级应急联动、Flask 仿真平台、独立 HTML 演示和 PDF 报告 | Python, Flask, NumPy, JavaScript | [GitHub](https://github.com/dengdeng55525/NUAA-Ubiquitous-Computing-CourseDesign) |
 
@@ -36,6 +37,7 @@
 - `NUAA-Computer-Network-Labs`：偏网络实验归档，包含实验报告、网络拓扑文件和 PING 程序源代码。
 - `NUAA-Computer-Graphics-Homework2`：偏图形学编程实验，基于 C++、OpenGL 和 GLUT 完成网格模型显示与去噪处理。
 - `NUAA-Computer-Graphics-Homework3`：偏三维场景建模与交互实现，基于 C++、OpenGL 和 GLUT 完成 3D Room、纹理贴图、光照动画和键鼠控制。
+- `NUAA-Computer-Graphics-Survey`：偏神经渲染与学术综述写作，梳理 NeRF 到 3D Gaussian Splatting 的新视角合成路线，包含完整论文与 LaTeX 工程。
 - `NUAA-Ubiquitous-Computing-CourseDesign`：偏普适计算与社区养老服务仿真，包含情境感知、养老互助任务调度、时间银行积分和多方应急联动。
 
 ### 大模型与智能交互项目
