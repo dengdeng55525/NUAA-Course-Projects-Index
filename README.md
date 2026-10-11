@@ -2,7 +2,7 @@
 
 ## 项目说明
 
-本仓库用于整理和索引本人在南京航空航天大学学习期间完成并开源的课程项目。各项目仓库保持独立维护，本仓库主要提供统一入口，便于查看项目主题、技术栈、课程背景和 GitHub 链接。
+本仓库用于整理和索引本人在南京航空航天大学学习期间完成并开源的课程项目，以及使用过的课程复习资料。各仓库保持独立维护，本仓库主要提供统一入口，便于查看项目主题、技术栈、课程背景、资料来源和 GitHub 链接。
 
 ## 作者信息
 
@@ -25,6 +25,7 @@
 | NUAA-Computer-Graphics-Survey | 计算机图形学综述作业 | NeRF 到 3D Gaussian Splatting 的新视角合成综述，包含英文论文、LaTeX 源码、参考文献和图表 | LaTeX, BibTeX, TikZ/PGFPlots | [GitHub](https://github.com/dengdeng55525/NUAA-Computer-Graphics-Survey) |
 | NUAA-LargeModel-Lingxi | 大模型课程项目 | 基于 Qwen2.5-1.5B、LoRA/QLoRA、DPO、NEFTune 与 rsLoRA 的家庭陪伴情绪支持对话助手 | Python, LLM, LoRA | [GitHub](https://github.com/dengdeng55525/NUAA-LargeModel-Lingxi) |
 | NUAA-Ubiquitous-Computing-CourseDesign | 普适计算课程设计 | 智慧社区养老互助系统，包含情境感知、任务调度、时间银行积分、三级应急联动、Flask 仿真平台、独立 HTML 演示和 PDF 报告 | Python, Flask, NumPy, JavaScript | [GitHub](https://github.com/dengdeng55525/NUAA-Ubiquitous-Computing-CourseDesign) |
+| NUAA-Database-Review-Materials | 数据库系统概论复习资料 | 第三方复习资料归档，来源于 Bilibili UP 主没睡醒冬，包含大题解法、范式判断、选填知识点与 SQL 语言 4 份 PDF | PDF | [GitHub](https://github.com/dengdeng55525/NUAA-Database-Review-Materials) |
 
 ## 项目分类
 
@@ -44,14 +45,20 @@
 
 - `NUAA-LargeModel-Lingxi`：围绕家庭陪伴场景构建情绪支持对话助手，包含模型微调、偏好优化和对话能力增强等内容。
 
+### 课程复习资料
+
+- `NUAA-Database-Review-Materials`：整理学习期间使用过的数据库系统概论复习 PDF，资料来源为 [Bilibili UP 主没睡醒冬](https://space.bilibili.com/949043)，包含大题解题方法、范式判断、选填知识点和 SQL 语言。
+
 ## 维护说明
 
-后续继续开源新的 NUAA 课程项目，我会在本仓库 README 中补充对应条目。各项目的源码、实验报告、运行说明和依赖配置仍以对应项目仓库为准。
+后续继续开源新的 NUAA 课程项目或整理课程复习资料，我会在本仓库 README 中补充对应条目。各项目的源码、实验报告、运行说明和依赖配置仍以对应项目仓库为准；第三方复习资料会保留来源和作者归属。
 
 ## 我想说的
 出于一个很简单的契机，我决定开源我三年来做的所有项目和课设，在这里感谢三年来陪我走来的很多同学，以及教会我计算机知识的老师。希望可以帮到大家，欢迎感兴趣的同学点点star做做贡献，后续有时间我会继续更新的!
 
 ## License
 如果你想引用本项目的内容，记得标注来源哦，欢迎做做贡献！
+
+索引中链接的第三方复习资料，其版权与使用许可归原作者及相应权利人所有，以对应仓库的来源说明和原作者授权为准。
 
 This repository is licensed under the MIT License.
